@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Recipes/task" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Shape hierarchy" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Users and WebSites" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/An anonymous class with three methods" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/Implement Runnable" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/String reverser" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Boxing and unboxing/Only true or false" />
+            <option value="$PROJECT_DIR$/Topics/Boxing and unboxing/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Builder" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Builder (1)" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Robot Builder" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Subway Sandwich" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Constructor/Account" />
+            <option value="$PROJECT_DIR$/Topics/Constructor/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Constructor/User" />
+            <option value="$PROJECT_DIR$/Topics/Declaring a method/Raise to the power" />
+            <option value="$PROJECT_DIR$/Topics/Declaring a method/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/Add new default method" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/Implement a default method" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/Resolve a diamond problem" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Points on the 2D plane" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Enums in Java/Hidden enumeration" />
+            <option value="$PROJECT_DIR$/Topics/Enums in Java/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Catching some exceptions" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Converting and multiplying" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Functional interfaces/A lambda expression with seven arguments" />
+            <option value="$PROJECT_DIR$/Topics/Functional interfaces/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Boxes are not just objects_" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Theory" />
+            <option value="$PROJECT_DIR$/Topics/HashMap/Remove long names" />
+            <option value="$PROJECT_DIR$/Topics/HashMap/The same letter" />
+            <option value="$PROJECT_DIR$/Topics/HashMap/The same pairs" />
+            <option value="$PROJECT_DIR$/Topics/HashMap/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Hiding and overriding/Publications" />
+            <option value="$PROJECT_DIR$/Topics/Hiding and overriding/Saying animals" />
+            <option value="$PROJECT_DIR$/Topics/Hiding and overriding/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Reversing input numbers" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Squirrels and nuts" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Interface/Area of a circle" />
+            <option value="$PROJECT_DIR$/Topics/Interface/Compact strings with AsciiCharSequence" />
+            <option value="$PROJECT_DIR$/Topics/Interface/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Pastry packing optimization" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Apply function to all elements" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Creating a closure" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Production of all numbers in the range" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/10 days before" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/Convert numbers to days" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/Find all mondays" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/Getting information on a day" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/Theory" />
+            <option value="$PROJECT_DIR$/Topics/LocalDateTime/Add 11 hours and print the date" />
+            <option value="$PROJECT_DIR$/Topics/LocalDateTime/Add days and subtract hours" />
+            <option value="$PROJECT_DIR$/Topics/LocalDateTime/Merging date-time instances" />
+            <option value="$PROJECT_DIR$/Topics/LocalDateTime/Subtracting hours and adding minutes" />
+            <option value="$PROJECT_DIR$/Topics/LocalDateTime/Theory" />
+            <option value="$PROJECT_DIR$/Topics/LocalTime/Return time without seconds" />
+            <option value="$PROJECT_DIR$/Topics/LocalTime/Seconds since start of a day" />
+            <option value="$PROJECT_DIR$/Topics/LocalTime/Some hours and minutes ago" />
+            <option value="$PROJECT_DIR$/Topics/LocalTime/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Employee" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Movie" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/NPE/Avoid NPE" />
+            <option value="$PROJECT_DIR$/Topics/NPE/Avoid NPE with strings" />
+            <option value="$PROJECT_DIR$/Topics/NPE/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Objects/Army" />
+            <option value="$PROJECT_DIR$/Topics/Objects/Change identities" />
+            <option value="$PROJECT_DIR$/Topics/Objects/Preparing full name" />
+            <option value="$PROJECT_DIR$/Topics/Objects/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Optional/Check an Optional value" />
+            <option value="$PROJECT_DIR$/Topics/Optional/Create an Optional value" />
+            <option value="$PROJECT_DIR$/Topics/Optional/Sum up optional values" />
+            <option value="$PROJECT_DIR$/Topics/Optional/The address book" />
+            <option value="$PROJECT_DIR$/Topics/Optional/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Package/Binary search" />
+            <option value="$PROJECT_DIR$/Topics/Package/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/Find mistake" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/Publication and its subclasses" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Check IP address" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Check the clock time" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Illegal identifiers" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Safe password" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Vehicle registration number" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Check the value" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Exactly one parameter is positive" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/Ternary operator" />
+            <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Detail manufacturing" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Time constants" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Too many cats" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/Floor-space of the room" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Creating a map" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Displaying pairs" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Getting submaps" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Kidnapper of Ice cream" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Modifying a map" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Output elements" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Strict superset" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Symmetric difference" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The utility class Collections/Frequency of characters" />
+            <option value="$PROJECT_DIR$/Topics/The utility class Collections/Sorting sequences" />
+            <option value="$PROJECT_DIR$/Topics/The utility class Collections/The first index of a sublist" />
+            <option value="$PROJECT_DIR$/Topics/The utility class Collections/Theory" />
+            <option value="$PROJECT_DIR$/Topics/What are collections/Initialize a collection" />
+            <option value="$PROJECT_DIR$/Topics/What are collections/Theory" />
+            <option value="$PROJECT_DIR$/Topics/What is an exception/Avoid division by zero" />
+            <option value="$PROJECT_DIR$/Topics/What is an exception/Theory" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+recipes/RecipesApplication.java
+ recipes.RecipesApplication
+recipes/RecipeService.java
+ recipes.RecipeService
+recipes/RecipeRepository.java
+ recipes.RecipeRepository
+recipes/Recipe.java
+ recipes.Recipe
+recipes/RecipeController.java
+ recipes.RecipeController
