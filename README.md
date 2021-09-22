@@ -30,3 +30,4 @@ This web service has the following REST endpoints:
         - `category` – if this parameter is specified, it returns a JSON array of all recipes of the specified category.
         - `name` – if this parameter is specified, it returns a JSON array of all recipes with the names that contain the specified parameter.  
     - If no recipes are found, the program returns an empty JSON array. If 0 parameters were passed, or more than 1, or if the specified parameters are not valid the server returns `400 (Bad Request)`.
+The service uses h2 database to store data.
